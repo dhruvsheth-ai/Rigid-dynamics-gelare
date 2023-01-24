@@ -48,7 +48,7 @@ where $K$ is a $1 \times 2 $ matrix of gains, $u$ is the force input that the co
 
 Currently under Implementation to explore constrained dynamics in Gelare (https://github.com/dhruvsheth-ai/Gelare):
 
-![image](https://user-images.githubusercontent.com/67831664/214376551-6b0ac5fe-aac8-4123-8bb0-13e8195fe658.png)
+![image](https://user-images.githubusercontent.com/67831664/214376953-6c42aedb-99c4-47cb-b438-b22eab32df94.png)
 ![image](https://user-images.githubusercontent.com/67831664/214376592-6fbac78c-2b61-4db2-aae1-2c569e728ea6.png)
 
 <h3> Code: </h3>
